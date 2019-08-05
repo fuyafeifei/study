@@ -7,8 +7,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '前端知识点总结',
-      description: '任何不能够给你快乐的编程都是耍流氓'
+      title: '三年积累前端知识',
+      description: '我自横刀向天笑，去留肝胆两昆仑'
     }
   },
   head: [
